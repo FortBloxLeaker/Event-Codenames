@@ -1,6 +1,6 @@
 # FortBlox Event Codenames
 You can use the FortBlox Event Codename to trigger the event early!<br>
-I have looked into how this works and there is a folder named `Events`<br>
+I have looked into how this works and there is a folder named `LiveEvents`<br>
 Which is probably used for the Event scripts. Ill give a example below on<br>
 To Trigger the Events<br><br>
 Old Example: `Workspace.Events.DestroyerEvent.Disabled = false`<br>
